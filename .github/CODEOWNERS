@@ -179,6 +179,9 @@
 # PRLabel: %Network
 /specification/network/ @kamboj-prjwl
 
+# PRLabel: %NetworkCloud
+/specification/networkcloud/ @bryan-strassner @mbashtovaya
+
 # PRLabel: %Notification Hub
 /specification/notificationhubs/ @amolr @smithab
 
